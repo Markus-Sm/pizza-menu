@@ -47,3 +47,4 @@ const pizzaData = [
   },
 ];
 
+console.log(pizzaData)
