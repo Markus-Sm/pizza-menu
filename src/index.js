@@ -47,5 +47,3 @@ const pizzaData = [
   },
 ];
 
-function App() {
-}
